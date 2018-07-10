@@ -24,32 +24,5 @@ namespace PBIRESTapitest
             var token = authContext.AcquireToken(resourceUri, clientID, credential).AccessToken;
             return token;
         }
-
-
-        //public string GetPowerbiapiurl(dataset[] set)
-        //{
-        //    string powerBIApiUrlFormat= ConfigurationSettings.AppSettings["powerBIApiUrlFormat"];
-        //    string datasetName = "Microsoft Data Visualization";
-        //    string datasetId = (from d in set where d.Name == datasetName select d).FirstOrDefault().Id;
-        //    string tableName = ConfigurationSettings.AppSettings["tableName"];
-        //    string powerBIApiUrl = String.Format(powerBIApiUrlFormat, datasetId, tableName);
-        //    return powerBIApiUrl;
-        //}
-        //public string GetPowerbiapiurlRefersh(dataset[] set)
-        //{
-        //    string powerBIApiUrlFormat = ConfigurationSettings.AppSettings["powerBIApiUrlFormatRefresh"];
-        //    string datasetName = "Microsoft Data Visualization";
-        //    string datasetId = (from d in set where d.Name == datasetName select d).FirstOrDefault().Id;
-        //    string tableName = ConfigurationSettings.AppSettings["tableName"];
-        //    string powerBIApiUrl = String.Format(powerBIApiUrlFormat, datasetId);
-        //    return powerBIApiUrl;
-        //}
-
-        //public string GetDatasetId(dataset[] set)
-        //{
-        //    string datasetName = "Microsoft Data Visualization";
-        //    string datasetId = (from d in set where d.Name == datasetName select d).FirstOrDefault().Id;
-        //    return datasetId;
-        //}
     }
 }

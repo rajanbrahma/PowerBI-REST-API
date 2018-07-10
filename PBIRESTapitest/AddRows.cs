@@ -33,14 +33,9 @@ namespace PBIRESTapitest
             this.tableName = tableName;
         }
 
-        //public void AddRows(Int64 ID, string ProdName, Int64 ProdPrice)
         public void AddRows(object p)
         {
             string json = "{\"rows\":[";
-            //Product p = new Product();
-            //p.ID = ID;
-            //p.name = ProdName;
-            //p.price = ProdPrice;
             json += JsonConvert.SerializeObject(p) + ",";
             json = json.Remove(json.Length - 1);
             json += "]}";

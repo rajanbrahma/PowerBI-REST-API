@@ -65,28 +65,6 @@ namespace PBIRESTapitest
                     var response = (HttpWebResponse)request.GetResponse();
                     return response.StatusCode.ToString();
             }
-            
-            //else
-            //{
-            //    //Create dataset for users
-            //    Person p = new Person();
-            //    string json = CreateJSON(p, "Users");
-            //    Console.WriteLine(json);
-            //    Console.ReadKey();
-            //    byte[] byteArray = System.Text.Encoding.UTF8.GetBytes(json);
-            //    request.ContentLength = byteArray.Length;
-
-            //    using (Stream writer = request.GetRequestStream())
-            //    {
-            //        writer.Write(byteArray, 0, byteArray.Length);
-            //        //foreach(byte b in byteArray)
-            //        //{
-            //        //    writer.WriteByte(b);
-            //        //}
-            //        var response = (HttpWebResponse)request.GetResponse();
-            //        return response.StatusCode.ToString();
-            //    }
-            //}
         }
 
         public static string CreateJSON(System.Object ob1, string datasetName)

@@ -84,12 +84,10 @@
     <Compile Include="CreateDataset.cs" />
     <Compile Include="DatasetRefresh.cs" />
     <Compile Include="DeleteRows.cs" />
-    <Compile Include="ExcelRowAdd.cs" />
     <Compile Include="GetDatasets.cs" />
     <Compile Include="GetGroups.cs" />
     <Compile Include="GlobalVariables.cs" />
     <Compile Include="Person.cs" />
-    <Compile Include="MSFT.cs" />
     <Compile Include="Product.cs" />
     <Compile Include="Program1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
