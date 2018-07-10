@@ -1,0 +1,51 @@
+c:\users\shibb\documents\visual studio 2015\Projects\PBIRESTapitest\PBIRESTapitest\bin\Debug\PBIRESTapitest.exe.config
+c:\users\shibb\documents\visual studio 2015\Projects\PBIRESTapitest\PBIRESTapitest\bin\Debug\PBIRESTapitest.exe
+c:\users\shibb\documents\visual studio 2015\Projects\PBIRESTapitest\PBIRESTapitest\bin\Debug\PBIRESTapitest.pdb
+c:\users\shibb\documents\visual studio 2015\Projects\PBIRESTapitest\PBIRESTapitest\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+c:\users\shibb\documents\visual studio 2015\Projects\PBIRESTapitest\PBIRESTapitest\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+c:\users\shibb\documents\visual studio 2015\Projects\PBIRESTapitest\PBIRESTapitest\bin\Debug\Vse.Web.Serialization.dll
+c:\users\shibb\documents\visual studio 2015\Projects\PBIRESTapitest\PBIRESTapitest\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+c:\users\shibb\documents\visual studio 2015\Projects\PBIRESTapitest\PBIRESTapitest\bin\Debug\Vse.Web.Serialization.pdb
+c:\users\shibb\documents\visual studio 2015\Projects\PBIRESTapitest\PBIRESTapitest\obj\Debug\PBIRESTapitest.csprojResolveAssemblyReference.cache
+c:\users\shibb\documents\visual studio 2015\Projects\PBIRESTapitest\PBIRESTapitest\obj\Debug\PBIRESTapitest.exe
+c:\users\shibb\documents\visual studio 2015\Projects\PBIRESTapitest\PBIRESTapitest\obj\Debug\PBIRESTapitest.pdb
+C:\Users\shibb\documents\visual studio 2015\Projects\PBIRESTapitest\PBIRESTapitest\bin\Debug\ExcelDataReader.dll
+C:\Users\shibb\documents\visual studio 2015\Projects\PBIRESTapitest\PBIRESTapitest\bin\Debug\ExcelDataReader.xml
+C:\Users\shibb\documents\visual studio 2015\Projects\PBIRESTapitest\PBIRESTapitest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shibb\documents\visual studio 2015\Projects\PBIRESTapitest\PBIRESTapitest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ThirdEye\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\bin\Debug\PBIRESTapitest.exe.config
+C:\Users\ThirdEye\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\obj\Debug\PBIRESTapitest.exe
+C:\Users\ThirdEye\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\obj\Debug\PBIRESTapitest.pdb
+C:\Users\ThirdEye\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\bin\Debug\PBIRESTapitest.exe
+C:\Users\ThirdEye\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\bin\Debug\PBIRESTapitest.pdb
+C:\Users\ThirdEye\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\bin\Debug\ExcelDataReader.dll
+C:\Users\ThirdEye\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\ThirdEye\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Users\ThirdEye\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ThirdEye\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\bin\Debug\Vse.Web.Serialization.dll
+C:\Users\ThirdEye\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\bin\Debug\ExcelDataReader.xml
+C:\Users\ThirdEye\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\ThirdEye\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ThirdEye\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\bin\Debug\Vse.Web.Serialization.pdb
+C:\Users\ThirdEye\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\obj\Debug\PBIRESTapitest.csprojResolveAssemblyReference.cache
+C:\Users\shibb\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\bin\Debug\PBIRESTapitest.exe.config
+C:\Users\shibb\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\obj\Debug\PBIRESTapitest.exe
+C:\Users\shibb\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\obj\Debug\PBIRESTapitest.pdb
+C:\Users\shibb\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\obj\Debug\PBIRESTapitest.csprojResolveAssemblyReference.cache
+C:\Users\shibb\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\bin\Debug\PBIRESTapitest.exe
+C:\Users\shibb\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\bin\Debug\PBIRESTapitest.pdb
+C:\Users\shibb\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\bin\Debug\ExcelDataReader.dll
+C:\Users\shibb\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\shibb\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Users\shibb\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shibb\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\bin\Debug\Vse.Web.Serialization.dll
+C:\Users\shibb\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\bin\Debug\ExcelDataReader.xml
+C:\Users\shibb\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\shibb\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shibb\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\bin\Debug\Vse.Web.Serialization.pdb
+C:\Users\ThirdEye\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\ThirdEye\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\bin\Debug\Microsoft.Graph.dll
+C:\Users\ThirdEye\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\bin\Debug\Microsoft.Graph.xml
+C:\Users\ThirdEye\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\bin\Debug\Microsoft.Graph.Core.xml
+C:\Users\ThirdEye\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\obj\Debug\PBIRESTapitest.csproj.CoreCompileInputs.cache
+C:\Users\ThirdEye\Google Drive\Work at home\Microsoft\PBIRESTapitest\PBIRESTapitest\PBIRESTapitest\obj\Debug\PBIRESTapitest.csproj.CopyComplete
